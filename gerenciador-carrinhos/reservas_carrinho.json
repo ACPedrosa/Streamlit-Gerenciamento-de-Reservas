@@ -1,0 +1,14 @@
+[
+    {
+        "solicitante": "Ana",
+        "curso": "ADS",
+        "tipo": "Laboratório Móvel SN1",
+        "qtd": 0,
+        "numeros": "",
+        "com_mouse": true,
+        "periodo": "Matutino",
+        "data": "2026-07-30",
+        "dia_idx": 3,
+        "dia_mes": 30
+    }
+]
